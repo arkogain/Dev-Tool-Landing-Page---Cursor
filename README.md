@@ -75,3 +75,7 @@ https://cursor.com
     - #201e18
     - #24261e
     - #1b1913
+ 
+## Website Image
+![cursor-web-landingpage](https://github.com/user-attachments/assets/0e1f25bb-9f62-4ac0-8e05-81e0749b7aae)
+
